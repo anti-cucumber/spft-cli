@@ -1,0 +1,8 @@
+{
+  "host": "s-d2a27cd1d73a4f799.server.transfer.ap-northeast-1.amazonaws.com",
+  "port": 22,
+  "username": "test-kagami-ex",
+  "privateKey": "-----BEGIN OPENSSH PRIVATE KEY-----\nb3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABB4seZJoG\nST7rx7O21jdrZgAAAAGAAAAAEAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIADoZ2kNRZ+OV9Ll\nu3NF3ErCd/80bykUTSgkCOtJr/VFAAAAoBWLuIOEwFyh3/rNN98XuD79TueZcuN5LpEfBI\nLeUUa6ZT4e2XeCHWHU20p89O8eN372pGDZAbp7Yom1wHIkbMBT8huDYKfc26Q3XzBqkewA\nd+UZu+RttwhHANBJxR49lIJc5QZQEiIe6uJmWCHPeAADg+jwAAqPzzUgJ15WdnpwnXdKww\nfb4s1uBJHfHe886Wk3kxbYwUbJX8wyZgOFEWU=\n-----END OPENSSH PRIVATE KEY-----",
+  "privateKeyPassphrase": "test",
+  "hostKeySHA256": "SHA256:8CRd8n7TVoJmzT89Aved/xmcqdSvOGvIge7q3Xmd8fY="
+}
